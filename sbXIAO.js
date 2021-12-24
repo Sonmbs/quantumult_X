@@ -16,7 +16,7 @@
 
 ----------------------------------------------------------
 
-*/
+**/
 
 let [link0, content0, subinfo] = [$resource.link, $resource.content, $resource.info]
 const subtag = $resource.tag != undefined ? $resource.tag : "";
