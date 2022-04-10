@@ -1,3 +1,3 @@
 # quantumult_X
 
-自用配置
+懒人配置
